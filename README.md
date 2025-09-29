@@ -1,5 +1,5 @@
 # Fake News Detection Using Hybrid NLP Techniques And ML Algorithms
-- Capstone Project [Final-Year Project]
+- mini Project 
 - A web application for fake news prediction.
 
 ## To Run: [ VSCode + Python 3.10.11 (recommended) ]
@@ -9,7 +9,7 @@
 
 ![alt text](webpage.png)
 
-Datasets used: https://www.kaggle.com/datasets/abkrishna05/fake-true-news-datasets
+Datasets used: https://www.kaggle.com/datasets/sabareesh606/fake-true-news-datasets
 
 ![alt text](kagglepage.png)
 
@@ -23,3 +23,4 @@ Datasets used: https://www.kaggle.com/datasets/abkrishna05/fake-true-news-datase
 ## Made by:
   1.Sabareesh M
   2.Ranjith C
+
