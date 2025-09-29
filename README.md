@@ -1,4 +1,4 @@
-# Fake News Detection Using Hybrid NLP Techniques And ML Algorithms
+# Enhancing Fake News Detection with Hybrid NLP
 - mini Project 
 - A web application for fake news prediction.
 
@@ -23,4 +23,5 @@ Datasets used: https://www.kaggle.com/datasets/sabareesh606/fake-true-news-datas
 ## Made by:
   1.Sabareesh M
   2.Ranjith C
+
 
